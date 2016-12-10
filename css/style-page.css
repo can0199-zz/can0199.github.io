@@ -2,7 +2,12 @@ body {
 	padding-top: 40px;  
 	background-image: url(../img/background.jpg);
 }
+
 .jumbotron {
 	color:  white;
 	background-image: url(../img/jumbotron.jpg);
+}
+#my-navbar, .navbar .navbar-default{
+	
+	background-image: url(../img/navbar.gif);	
 }
